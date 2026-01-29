@@ -1,3 +1,6 @@
+<h1 align="center">Hey 👋 This is Apoorv </h1>
+
+
 # 💫 About Me:
 💻 I'm currently working on Air Hockey <br><br>🌱 I’m currently learning Python and DSA (Data Structure and Analysis)<br><br>💬 Ask me about C programming <br><br>📫 You can Reach me on apoorvmishra2007@gmail.com<br><br>👨‍💻 All of my projects are available at https://github.com/Apoorv-git-code<br><br>⚡ Fun fact I am a Piano Player <br>
 
@@ -12,10 +15,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=apoorv-git-code&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-git-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=apoorv-git-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=apoorv-git-code&icon=4&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
