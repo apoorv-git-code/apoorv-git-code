@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Workspace&fontSize=50&animation=fadeIn&theme=tokyonight" width="100%" alt="Developer Banner"/>
+  <img src="https://github.com/apoorv-git-code/Apoorv/blob/main/Tech%20Coding%20GIF.gif" width="40%" alt="Developer Banner"/>
 </div>
 
 <h1 align="center">
