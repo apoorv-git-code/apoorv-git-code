@@ -2,52 +2,129 @@
   <img src="https://github.com/apoorv-git-code/apoorv-git-code/blob/main/Vibing%20Good%20Night%20GIF%20by%20WUFFI.gif" width="100%" height="600px" alt="Developer Banner"/>
 </div>
 
-# Hi, I'm Apoorv! 👋
+<br/>
 
-### Python Developer
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Apoorv+%F0%9F%91%8B;Python+Developer+%7C+DSA+Explorer;I+code+like+I+play+piano+%F0%9F%8E%B9;Building+harmony+in+every+algorithm." alt="Typing SVG" />
 
-### 🚀 About Me
-- 🎮 I'm currently working on **Air Hockey**.
-- 📚 I'm currently learning **Python** and **Data Structures & Analysis (DSA)**.
-- 💬 Ask me about **C programming**.
-- 🎹 Fun fact: I am a **Piano Player**.
-- 🔍 Always exploring new ways to optimize code and build fun projects.
-- 🎯 Goal-oriented developer focused on clean code and efficient solutions.
+<br/><br/>
 
----
-
-### 🛠 Tech Stack & Tools
-#### Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-#### Tools & Environment
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
----
-
-### 📊 GitHub Statistics
-![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-git-code&layout=compact&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-![Apoorv's Trophies](https://github-readme-trophy.vercel.app/?username=apoorv-git-code&theme=radical)
-
----
-
-### 🌐 Let's Connect!
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apoorvmishra_07/)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ApoorvMishra)
+![Profile Views](https://komarev.com/ghpvc/?username=apoorv-git-code&color=F7A800&style=for-the-badge&label=PROFILE+VIEWS)
 
-> *“We may say most aptly that the Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.”* – Ada Lovelace
+</div>
 
 ---
 
-### 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=apoorv-git-code&color=blue)
+## 🎼 &nbsp; The Code Harmony Manifesto
+
+> *"A great algorithm is a symphony — every instruction has a purpose, every loop has a rhythm, and every function resolves like a chord coming home."*
+
+I'm **Apoorv** — a Python developer, DSA grinder, and lifelong pianist.
+
+Here's the thing: playing piano taught me that **complexity is just patterns you haven't understood yet.** A Chopin étude looks impossible until you isolate each hand. A graph traversal looks terrifying until you trace the edges. Both reward the same thing: **deliberate, patient, structured thinking.**
+
+I write code the way I play music — with intention, with rhythm, and always hunting for that one elegant solution that just *resolves cleanly.*
+
+---
+
+## 🎮 &nbsp; SPOTLIGHT: Currently On Stage
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   🏒  AIR HOCKEY  —  A Python Arcade Project             ║
+║   ─────────────────────────────────────────────────     ║
+║   [ STATUS: IN DEVELOPMENT  🔧 ]                         ║
+║                                                          ║
+║   Fast. Physical. Addictive.                             ║
+║   A full-featured arcade Air Hockey game built from      ║
+║   scratch in Python — real physics, smooth collision     ║
+║   detection, and a game loop tight enough to feel        ║
+║   like the real thing.                                   ║
+║                                                          ║
+║   ⚡ Physics engine   🎯 Collision logic                 ║
+║   🖼️  Live rendering   🤖 AI opponent (coming soon)      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+Think of it as a **puck on a frictionless surface** — minimalist in appearance, but packed with velocity vectors, elastic rebounds, and frame-perfect timing under the hood. This is where my DSA studies hit the real world.
+
+---
+
+## 🎹 &nbsp; My Stack — The Instruments I Play
+
+<div align="center">
+
+| 🎵 Category | 🛠 Tools |
+|:---:|:---:|
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
+| **Environment** | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) |
+| **Data & DB** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| **Currently Studying** | `Data Structures` · `Algorithms` · `Problem Solving` |
+
+</div>
+
+---
+
+## 📡 &nbsp; Live Dashboard
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF" alt="Apoorv's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-git-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A800&text_color=FFFFFF" alt="Most Used Languages"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Apoorv's Trophies](https://github-readme-trophy.vercel.app/?username=apoorv-git-code&theme=radical&no-frame=true&column=7&margin-w=10)
+
+</div>
+
+---
+
+## 🌐 &nbsp; Find Me Offstage
+
+<div align="center">
+
+I share my journey — the wins, the late-night debugging sessions, and the music in between.
+
+[![Instagram](https://img.shields.io/badge/Follow%20the%20journey-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apoorvmishra_07/)
+[![YouTube](https://img.shields.io/badge/Watch%20the%20build-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ApoorvMishra)
+
+<br/>
+
+> *"We may say most aptly that the Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."*
+> — **Ada Lovelace**, the first programmer
+
+<br/>
+
+```python
+while alive:
+    read()
+    code()
+    play_piano()
+    repeat()
+```
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Powered by caffeine, curiosity, and chord progressions · <b>@apoorv-git-code</b></sub>
+</div>
