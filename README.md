@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/apoorv-git-code/apoorv-git-code/blob/main/Vibing%20Good%20Night%20GIF%20by%20WUFFI.gif" width="100%" height="600px" alt="Developer Banner"/>
+  <img src="asset1.png" width="100%" alt="Developer Banner" />
 </div>
 
 <br/>
