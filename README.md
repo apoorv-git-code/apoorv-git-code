@@ -75,26 +75,22 @@ Think of it as a **puck on a frictionless surface** — minimalist in appearance
 ---
 
 ## 📡 &nbsp; Live Dashboard
+## 📡   Live Dashboard
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF" alt="Apoorv's GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-git-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A800&text_color=FFFFFF" alt="Most Used Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-![Apoorv's Trophies](https://github-readme-trophy.vercel.app/?username=apoorv-git-code&theme=radical&no-frame=true&column=7&margin-w=10)
-
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF" alt="Apoorv's GitHub Stats" height="180px" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://leetcard.jacoblin.cool/Apoorv_M7?theme=unicorn&font=Azeret%20Mono&ext=heatmap" alt="LeetCode Stats" height="180px" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=apoorv-git-code&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="Apoorv's Trophies" />
 </div>
-
 ---
 
 ## 🌐 &nbsp; Find Me Offstage
