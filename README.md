@@ -75,7 +75,6 @@ Think of it as a **puck on a frictionless surface** — minimalist in appearance
 ---
 
 ## 📡 &nbsp; Live Dashboard
-## 📡   Live Dashboard
 
 <div align="center">
   <table border="0">
