@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="asset1.png" width="100%" alt="Developer Banner" />
+  <img src="Assets/asset1.png" width="100%" alt="Developer Banner" />
 </div>
 
 <br/>
