@@ -87,8 +87,9 @@ Think of it as a **puck on a frictionless surface** — minimalist in appearance
       </td>
     </tr>
   </table>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=apoorv-git-code&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="Apoorv's Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apoorv-git-code&theme=tokyonight&no-bg=true&margin-w=15" alt="Apoorv's Trophies" />
+</p>
 </div>
 ---
 
