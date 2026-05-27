@@ -80,7 +80,7 @@ Think of it as a **puck on a frictionless surface** — minimalist in appearance
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF" alt="Apoorv's GitHub Stats" height="180px" />
+        <img src="https://github-readme-stats-h9jhrgez4-apoorv-git-codes-projects.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF" alt="Apoorv's GitHub Stats" height="180px" />
       </td>
       <td align="center" valign="top">
         <img src="https://leetcard.jacoblin.cool/Apoorv_M7?theme=unicorn&font=Azeret%20Mono&ext=heatmap" alt="LeetCode Stats" height="180px" />
