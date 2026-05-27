@@ -82,6 +82,7 @@ Think of it as a **puck on a frictionless surface** — minimalist in appearance
       <td align="center" valign="top">
         <img src="https://github-readme-stats-mocha-seven-98.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF&v=1" alt="Apoorv's GitHub Stats" height="180px" />
       </td>
+      <img src="Assets/cat.gif" width="250px" alt="Coding Cat" />
       <td align="center" valign="top">
         <img src="https://leetcard.jacoblin.cool/Apoorv_M7?theme=unicorn&font=Azeret%20Mono&ext=heatmap" alt="LeetCode Stats" height="180px" />
       </td>
