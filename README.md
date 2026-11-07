@@ -6,69 +6,61 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Apoorv+%F0%9F%91%8B;Python+Developer+%7C+DSA+Explorer;I+code+like+I+play+piano+%F0%9F%8E%B9;Building+harmony+in+every+algorithm." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Apoorv+%F0%9F%91%8B;CS+Student+%7C+AI%2FML+%2B+Software+Engineering;Python+Developer+%7C+DSA+Explorer;I+code+like+I+play+piano+%F0%9F%8E%B9" alt="Typing SVG" />
 
 <br/><br/>
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apoorvmishra_07/)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ApoorvMishra)
+[![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Apoorv_M7/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO-your-handle/)
 ![Profile Views](https://komarev.com/ghpvc/?username=apoorv-git-code&color=F7A800&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
+## 👋 &nbsp; About Me
+
+- 🎓 Second-year **B.Tech CSE (AI/ML)** student at **UPES**, graduating 2029
+- 🔎 Looking for **SWE and ML internships**
+- 🏆 **Finalist at Innov8 (Eightfold.ai × ARIES, IIT Delhi)**: qualified through the Corporate Heist prelims into the Battle Arena finals
+- 🧠 Currently studying: Data Structures · Algorithms · Machine Learning
+- 🎹 Lifelong pianist
+
+---
+
 ## 🎼 &nbsp; The Code Harmony Manifesto
 
-> *"A great algorithm is a symphony — every instruction has a purpose, every loop has a rhythm, and every function resolves like a chord coming home."*
+> *"A great algorithm is a symphony: every instruction has a purpose, every loop has a rhythm, and every function resolves like a chord coming home."*
 
-I'm **Apoorv** — a Python developer, DSA grinder, and lifelong pianist.
-
-Here's the thing: playing piano taught me that **complexity is just patterns you haven't understood yet.** A Chopin étude looks impossible until you isolate each hand. A graph traversal looks terrifying until you trace the edges. Both reward the same thing: **deliberate, patient, structured thinking.**
-
-I write code the way I play music — with intention, with rhythm, and always hunting for that one elegant solution that just *resolves cleanly.*
+Playing piano taught me that **complexity is just patterns you haven't understood yet.** A Chopin étude looks impossible until you isolate each hand. A graph traversal looks terrifying until you trace the edges. Both reward **deliberate, patient, structured thinking.**
 
 ---
 
-## 🎮 &nbsp; SPOTLIGHT: Currently On Stage
+## 🚀 &nbsp; Featured Projects
 
-<div align="center">
+| Project | What it is | Stack |
+|:---|:---|:---|
+| 🥊 **Adaptive Fighter AI** | A fighting game I built where ML models learn the player's style, predict their next move, adjust difficulty and detect bots | Python, ML |
+| 🏒 **Air Hockey** *(in development)* | Arcade game from scratch: physics engine, collision logic, live rendering, AI opponent coming soon | Python |
+| 🌐 **UPES ACM Website** | Contributor on the React site for the UPES ACM chapter, [upesacm.org](https://upesacm.org) | React, Vite |
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   🏒  AIR HOCKEY  —  A Python Arcade Project             ║
-║   ─────────────────────────────────────────────────     ║
-║   [ STATUS: IN DEVELOPMENT  🔧 ]                         ║
-║                                                          ║
-║   Fast. Physical. Addictive.                             ║
-║   A full-featured arcade Air Hockey game built from      ║
-║   scratch in Python — real physics, smooth collision     ║
-║   detection, and a game loop tight enough to feel        ║
-║   like the real thing.                                   ║
-║                                                          ║
-║   ⚡ Physics engine   🎯 Collision logic                 ║
-║   🖼️  Live rendering   🤖 AI opponent (coming soon)      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-Think of it as a **puck on a frictionless surface** — minimalist in appearance, but packed with velocity vectors, elastic rebounds, and frame-perfect timing under the hood. This is where my DSA studies hit the real world.
+<!-- TODO: add repo links, e.g. [Adaptive Fighter AI](https://github.com/apoorv-git-code/REPO) -->
 
 ---
 
-## 🎹 &nbsp; My Stack — The Instruments I Play
+## 🎹 &nbsp; My Stack: The Instruments I Play
 
 <div align="center">
 
 | 🎵 Category | 🛠 Tools |
 |:---:|:---:|
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
-| **Environment** | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **ML / Data** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
+| **Environment** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) |
 | **Data & DB** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
-| **Currently Studying** | `Data Structures` · `Algorithms` · `Problem Solving` |
 
 </div>
 
@@ -77,30 +69,32 @@ Think of it as a **puck on a frictionless surface** — minimalist in appearance
 ## 📡 &nbsp; Live Dashboard
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats-mocha-seven-98.vercel.app/api?username=apoorv-git-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7A800&icon_color=F7A800&text_color=FFFFFF&v=1" alt="Apoorv's GitHub Stats" height="180px" />
-      </td>
+
+<!-- Static SVG generated daily by GitHub Actions: no rate limits -->
+<img src="./assets/metrics.svg" alt="Apoorv's GitHub Metrics" width="90%" />
+
+<br/><br/>
+
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://leetcard.jacoblin.cool/Apoorv_M7?theme=unicorn&font=Azeret%20Mono&ext=heatmap" alt="LeetCode Stats" height="180px" />
+    </td>
+    <td align="center" valign="middle">
       <img src="Assets/cat.gif" width="250px" alt="Coding Cat" />
-      <td align="center" valign="top">
-        <img src="https://leetcard.jacoblin.cool/Apoorv_M7?theme=unicorn&font=Azeret%20Mono&ext=heatmap" alt="LeetCode Stats" height="180px" />
-      </td>
-    </tr>
-  </table>
-<p align="center">
-  <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=apoorv-git-code&theme=tokyonight&no-bg=true&margin-w=15" alt="Apoorv's Trophies" />
-</p>
-</p>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 ---
 
 ## 🌐 &nbsp; Find Me Offstage
 
 <div align="center">
 
-I share my journey — the wins, the late-night debugging sessions, and the music in between.
+I share my journey: the wins, the late-night debugging sessions, and the music in between.
 
 [![Instagram](https://img.shields.io/badge/Follow%20the%20journey-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apoorvmishra_07/)
 [![YouTube](https://img.shields.io/badge/Watch%20the%20build-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ApoorvMishra)
