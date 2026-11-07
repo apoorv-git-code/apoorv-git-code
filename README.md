@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=720&lines=Hey+there%2C+I'm+Apoorv+%F0%9F%91%8B;CS+%7C+AI%2FML+%2B+Software+Engineering;Python+Developer+%7C+DSA+Explorer;Questing+for+my+next+internship+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=720&lines=Hey+there%2C+I'm+Apoorv+%F0%9F%91%8B;CS+Student+%7C+AI%2FML+%2B+Software+Engineering;Python+Developer+%7C+DSA+Explorer;Questing+for+my+next+internship+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -49,7 +49,7 @@
 
 Desktop and mobile · Built from scratch in plain JavaScript
 
-A tiny Swordigo-style platformer with three worlds: slash slimes and bats, collect gold, clear the Keep, then take on Emberfall Caverns and Frostspire.
+A tiny Swordigo-style platformer with ten worlds: chain sword combos, throw fireballs at bats, collect orbs and gold, and fight through a new set of monsters in every world.
 
 </div>
 
@@ -60,7 +60,7 @@ A tiny Swordigo-style platformer with three worlds: slash slimes and bats, colle
 | Quest | What it is | Stack | Status |
 |:---|:---|:---|:---:|
 | 🥊 **Adaptive Fighter AI** | A fighting game where ML models learn the player's style, predict their next move, adjust difficulty and detect bots | Python, ML | ✅ Built |
-| 🏰 **The Quiet Keep** | Side-scrolling sword platformer with three worlds, enemies, coins and touch controls | JavaScript, Canvas | ✅ Live |
+| 🏰 **The Quiet Keep** | Side-scrolling sword platformer with ten worlds, new monsters in each, enemies, coins and touch controls | JavaScript, Canvas | ✅ Live |
 | 🏒 **Air Hockey** | Arcade game from scratch: physics engine, collision logic, live rendering, AI opponent coming soon | Python | 🔧 In progress |
 | 🌐 **UPES ACM Website** | Contributor on the React site for the UPES ACM chapter, [upesacm.org](https://upesacm.org) | React, Vite | ✅ Live |
 
