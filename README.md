@@ -45,9 +45,11 @@
 
 [![Play The Quiet Keep](Assets/game-preview.gif)](https://quiet-keep.vercel.app)
 
-**[▶ Play in your browser](https://quiet-keep.vercel.app)** · Desktop and mobile · Built from scratch in plain JavaScript
+[![Play Now](https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-F7A800?style=for-the-badge&logoColor=black)](https://quiet-keep.vercel.app)
 
-A tiny Swordigo-style platformer: slash slimes and bats, collect gold, reach the gate.
+Desktop and mobile · Built from scratch in plain JavaScript
+
+A tiny Swordigo-style platformer with three worlds: slash slimes and bats, collect gold, clear the Keep, then take on Emberfall Caverns and Frostspire.
 
 </div>
 
@@ -58,7 +60,7 @@ A tiny Swordigo-style platformer: slash slimes and bats, collect gold, reach the
 | Quest | What it is | Stack | Status |
 |:---|:---|:---|:---:|
 | 🥊 **Adaptive Fighter AI** | A fighting game where ML models learn the player's style, predict their next move, adjust difficulty and detect bots | Python, ML | ✅ Built |
-| 🏰 **The Quiet Keep** | Side-scrolling sword platformer with enemies, coins and touch controls | JavaScript, Canvas | ✅ Live |
+| 🏰 **The Quiet Keep** | Side-scrolling sword platformer with three worlds, enemies, coins and touch controls | JavaScript, Canvas | ✅ Live |
 | 🏒 **Air Hockey** | Arcade game from scratch: physics engine, collision logic, live rendering, AI opponent coming soon | Python | 🔧 In progress |
 | 🌐 **UPES ACM Website** | Contributor on the React site for the UPES ACM chapter, [upesacm.org](https://upesacm.org) | React, Vite | ✅ Live |
 
