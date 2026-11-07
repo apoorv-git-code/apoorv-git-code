@@ -89,6 +89,17 @@ Playing piano taught me that **complexity is just patterns you haven't understoo
 </div>
 
 ---
+## 🐍 &nbsp; Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apoorv-git-code/apoorv-git-code/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apoorv-git-code/apoorv-git-code/output/github-snake.svg" />
+    <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/apoorv-git-code/apoorv-git-code/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
 
 ## 🌐 &nbsp; Find Me Offstage
 
