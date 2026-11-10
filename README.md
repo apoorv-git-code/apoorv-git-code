@@ -49,7 +49,7 @@
 
 Desktop and mobile · Built from scratch in plain JavaScript
 
-A tiny Swordigo-style platformer with ten worlds: chain sword combos, throw fireballs at bats, collect orbs and gold, and fight through a new set of monsters in every world.
+A tiny Swordigo-style platformer with ten worlds: chain sword combos, throw fireballs at bats, collect orbs and gold, and fight through a new set of monsters in every world, a village shop, quests, and a guardian boss at the end of each.
 
 </div>
 
