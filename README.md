@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apoorvmishra_07/)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ApoorvMishra)
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Apoorv_M7/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO-your-handle/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorv-mishra07/)
 ![Profile Views](https://komarev.com/ghpvc/?username=apoorv-git-code&color=F7A800&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -119,7 +119,7 @@ A tiny Swordigo-style platformer with ten worlds: chain sword combos, throw fire
 
 ## 🍺 &nbsp; Find Me at the Tavern
 
-<div align="center">
+<div align="center">  
 
 I share the journey: the wins, the late-night debugging sessions, and the builds in between.
 
